@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-minimalist-tradition-innovation",
+  "title": "The Silence of a Negative Sum",
+  "tagline": "In a medieval monastery, a sculptor's quest to liberate a form from stone challenges the foundations of his faith and craft.",
+  "target_words": 70370,
+  "actual_words": 70370,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistic Creation vs. Divine Revelation",
+    "The Tyranny of Tradition",
+    "The Sacredness of Process",
+    "Isolation and the Inner World"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone's Lingering Chill",
+      "words": 5864
+    },
+    {
+      "ch": 2,
+      "title": "A Thousand Tiny Taps",
+      "words": 5864
+    },
+    {
+      "ch": 3,
+      "title": "The Cold, Sharp Thing",
+      "words": 5864
+    },
+    {
+      "ch": 4,
+      "title": "A Heartbeat from Another World",
+      "words": 5864
+    },
+    {
+      "ch": 5,
+      "title": "An Omission of Steam",
+      "words": 5864
+    },
+    {
+      "ch": 6,
+      "title": "The Colour of Tarnished Pewter",
+      "words": 5864
+    },
+    {
+      "ch": 7,
+      "title": "A Subterranean Exhalation",
+      "words": 5864
+    },
+    {
+      "ch": 8,
+      "title": "The Weight of the Web",
+      "words": 5864
+    },
+    {
+      "ch": 9,
+      "title": "Scrapes in the Swallowing Dark",
+      "words": 5864
+    },
+    {
+      "ch": 10,
+      "title": "The Geometry of Exhaust",
+      "words": 5864
+    },
+    {
+      "ch": 11,
+      "title": "The Silence of a Negative Sum",
+      "words": 5864
+    },
+    {
+      "ch": 12,
+      "title": "Sun-Baked Flagstones",
+      "words": 5864
+    }
+  ]
+}
